@@ -1,14 +1,14 @@
 # Hello, I'm Nerick
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
+Hello! I'm Nerick, a passionate and dedicated Security Analyst with a strong focus on safeguarding digital assets and ensuring the integrity of information systems. I have hands-on experience in threat analysis, vulnerability assessment, incident response, and security automation.
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+This portfolio showcases my work, including projects and research that highlight my skills and knowledge in the field of cybersecurity. I am constantly learning and adapting to the ever-evolving landscape of cybersecurity, and I’m excited to share my journey with you.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
+Aspiring to transition into cybersecurity, I am leveraging my Machine Operator experience to become a proficient Security Analyst. My goal is to apply my analytical skills and passion for technology to protect and secure digital environments.
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
