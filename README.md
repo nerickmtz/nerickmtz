@@ -1,5 +1,5 @@
 # Hello, I'm Nerick
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/nerick-martinez-1a3995171/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Hello! I'm Nerick, a passionate and dedicated Security Analyst with a strong focus on safeguarding digital assets and ensuring the integrity of information systems. I have hands-on experience in threat analysis, vulnerability assessment, incident response, and security automation.
 
