@@ -19,6 +19,10 @@ I am now eager to transition into this field, specifically aiming to join a Secu
 | Integration of SOAR Tools      | <a href="https://github.com/nerickmtz/SOAR-EDR-Project">SOAR-EDR-Project</a>|
 | Automation with Tines          | <a href="https://github.com/nerickmtz/SOAR-EDR-Project">SOAR-EDR-Project</a>|
 | Incident Response Orchestration | <a href="https://github.com/nerickmtz/SOAR-EDR-Project">SOAR-EDR-Project</a>|
+| Security Monitoring & Log Analysis | <a href="https://github.com/nerickmtz/SOC-Home-Lab-Project">SOC-Home-Lab-Project</a>|
+| Incident Detection & Response | <a href="https://github.com/nerickmtz/SOC-Home-Lab-Project">SOC-Home-Lab-Project</a>|
+| Endpoint Detection & Management | <a href="https://github.com/nerickmtz/SOC-Home-Lab-Project">SOC-Home-Lab-Project</a>|
+| SIEM Configuration & Management | <a href="https://github.com/nerickmtz/SOC-Home-Lab-Project">SOC-Home-Lab-Project</a>|
 
 ## Tools
 
