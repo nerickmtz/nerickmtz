@@ -9,6 +9,11 @@ Aspiring to transition into cybersecurity, I am leveraging my Machine Operator e
 
 I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
+## Projects
+- [SOC-Home-Lab](https://github.com/nerickmtz/SOC-Home-Lab-Project)
+- [SOAR-EDR Project](https://github.com/nerickmtz/SOAR-EDR-Project)
+- [Active Directory Project](https://github.com/nerickmtz/Active-Directory-Project)
+
 ## Skills
 
 | Skill                                         | Associated Project         |
@@ -56,10 +61,7 @@ I am now eager to transition into this field, specifically aiming to join a Secu
 
 </div>
 
-## Projects
-- [SOC-Home-Lab](https://github.com/nerickmtz/SOC-Home-Lab-Project)
-- [SOAR-EDR Project](https://github.com/nerickmtz/SOAR-EDR-Project)
-- [Active Directory Project](https://github.com/nerickmtz/Active-Directory-Project)
+
 
   
 
