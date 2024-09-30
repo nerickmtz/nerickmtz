@@ -1,10 +1,9 @@
 # Hello, I'm Nerick
 <a href="https://www.linkedin.com/in/nerick-martinez-1a3995171/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Hello! I'm Nerick, a passionate and dedicated Security Analyst with a strong focus on safeguarding digital assets and ensuring the integrity of information systems. I have hands-on experience in threat analysis, vulnerability assessment, incident response, and security automation.
+Hi, I’m Nerick! I’m a passionate learner currently making a career shift into cybersecurity. My focus is on protecting digital assets and ensuring information systems stay secure. Along the way, I've been gaining hands-on experience in areas like threat analysis, incident response, and security automation.
 
-This portfolio showcases my work, including projects and research that highlight my skills and knowledge in the field of cybersecurity. I am constantly learning and adapting to the ever-evolving landscape of cybersecurity, and I’m excited to share my journey with you.
-
+This portfolio is a collection of my projects and research, showing the skills I’m building as I dive deeper into the cybersecurity world. I’m always learning and adapting to the constantly changing landscape, and I’m excited to share my journey with you as I move forward in this new direction.
 ## Objective
 Aspiring to transition into cybersecurity, I am leveraging my Machine Operator experience to become a proficient Security Analyst. My goal is to apply my analytical skills and passion for technology to protect and secure digital environments.
 
