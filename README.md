@@ -10,19 +10,17 @@ Aspiring to transition into cybersecurity, I am leveraging my Machine Operator e
 I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| SIEM Implementation and Log Analysis  | <a href="https://github.com/nerickmtz/Active-Directory-Project">Active-Directory-Project</a>|
+| Active Directory Administration | <a href="https://github.com/nerickmtz/Active-Directory-Project">Active-Directory-Project</a>|
+| Network & System Security       | <a href="https://github.com/nerickmtz/Active-Directory-Project">Active-Directory-Project</a>|
+| Integration of SOAR Tools      | <a href="https://github.com/nerickmtz/SOAR-EDR-Project">SOAR-EDR-Project</a>|
+| Automation with Tines          | <a href="https://github.com/nerickmtz/SOAR-EDR-Project">SOAR-EDR-Project</a>|
+| Incident Response Orchestration | <a href="https://github.com/nerickmtz/SOAR-EDR-Project">SOAR-EDR-Project</a>|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
