@@ -55,6 +55,7 @@ I am now eager to transition into this field, specifically aiming to join a Secu
 </div>
 
 ## Projects
-- Active Directory Project    
-- SOAR-EDR-Project
-- Home SOC Lab
+- [Active Directory Project](https://github.com/nerickmtz/Active-Directory-Project)
+- [SOAR-EDR Project](https://github.com/nerickmtz/SOAR-EDR-Project)
+- [Home SOC Lab](https://github.com/nerickmtz/SOC-Home-Lab-Project)
+
