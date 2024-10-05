@@ -57,7 +57,7 @@ I am now eager to transition into this field, specifically aiming to join a Secu
 <div>
 <img src="https://img.shields.io/badge/-Google_Cybersecurity_Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Blue_Team_Level_One-007ACC?style=for-the-badge&logo=security&logoColor=white" />
+<img src="https://img.shields.io/badge/-Blue_Team_Level_1-007ACC?style=for-the-badge&logo=security&logoColor=white" />
 
 </div>
 
